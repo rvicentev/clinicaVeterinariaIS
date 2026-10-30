@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="clinicaVeterinaria" version="4">
+  <OBJECT>
+    <ID name="clinicaVeterinaria" mc="Archimate.ArchimateProject" uid="f3809d9f-6207-455b-b164-80a2b35e3c5d"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[clinicaVeterinaria]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="model">
+        <COMPID name="Model" mc="Archimate.Model" uid="58b684b6-09d9-46f1-b0f0-3ab02fbbd6b7"/>
+      </COMP>
+      <COMP relation="viewPoints">
+        <COMPID name="ViewPoint" mc="Archimate.ViewPoint" uid="6e86721f-bc98-47c5-8ae7-836238dc0df6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
