@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model" version="4">
+  <OBJECT>
+    <ID name="Model" mc="Archimate.Model" uid="58b684b6-09d9-46f1-b0f0-3ab02fbbd6b7"/>
+    <PID name="clinicaVeterinaria" mc="Archimate.ArchimateProject" uid="f3809d9f-6207-455b-b164-80a2b35e3c5d"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="folder">
+        <COMPID name="Application" mc="Archimate.ApplicationFolder" uid="52d5462a-7240-4a9e-b69d-f8d4a644939c"/>
+        <COMPID name="Business" mc="Archimate.BusinessFolder" uid="2700eff1-af80-4c59-b0bc-33b7c732465c"/>
+        <COMPID name="Implementation" mc="Archimate.ImplementationFolder" uid="a9b6bfc9-7d8c-4374-9de2-59b5270f7899"/>
+        <COMPID name="Motivation" mc="Archimate.MotivationFolder" uid="f8de7574-52b4-4c3b-a4d9-73a7111c5eeb"/>
+        <COMPID name="Physical" mc="Archimate.PhysicalFolder" uid="45acd41a-77c3-420b-a422-3cac316c7003"/>
+        <COMPID name="Strategy" mc="Archimate.StrategyFolder" uid="f514a3d9-c17f-486e-983e-36678887caa3"/>
+        <COMPID name="Technology" mc="Archimate.TechnologyFolder" uid="665edab6-1879-444f-9e80-d91ee1e912f2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
