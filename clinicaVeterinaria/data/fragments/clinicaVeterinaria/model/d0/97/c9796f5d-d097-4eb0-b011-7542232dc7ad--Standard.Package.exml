@@ -21,7 +21,7 @@
         <COMPID name="CU-01 Registrar Cita" mc="Standard.UseCase" uid="970af964-ddf0-42b3-a551-0fcb69ff951d"/>
         <COMPID name="CU-02 Firmar Consentimiento" mc="Standard.UseCase" uid="e827f332-4c54-4901-b8da-98a8faa8d951"/>
         <COMPID name="CU-03 Pagar factura" mc="Standard.UseCase" uid="96645c86-42b0-4832-a5e7-de346729af94"/>
-        <COMPID name="CU-04 Iniciar Sesión ¿?" mc="Standard.UseCase" uid="d29251ad-f1ca-4857-b8ce-aeac082471aa"/>
+        <COMPID name="CU-04 Iniciar Sesión" mc="Standard.UseCase" uid="d29251ad-f1ca-4857-b8ce-aeac082471aa"/>
         <COMPID name="CU-05 Registrar Historial" mc="Standard.UseCase" uid="bfcf0853-4b73-4ab9-ab4e-0e1b864b6a92"/>
         <COMPID name="CU-06 Asignar Box" mc="Standard.UseCase" uid="257bb92b-b385-4710-9029-f3156977bc23"/>
         <COMPID name="CU-07 Registrar uso de medicamento controlado" mc="Standard.UseCase" uid="1287151d-2a35-4266-8d57-cf0d1999b6f2"/>
